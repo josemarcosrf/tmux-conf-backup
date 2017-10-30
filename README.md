@@ -8,3 +8,7 @@ Once created reload tmux configuration with:
 ```bash
 	tmux source-file ~/.tmux.conf
 ```
+
+
+### tmux man page
+http://manpages.ubuntu.com/manpages/xenial/man1/tmux.1.html#contenttoc13
